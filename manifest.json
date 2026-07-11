@@ -1,0 +1,18 @@
+{
+  "name": "ImamZex++ BTC Terminal · IS888",
+  "short_name": "IS888 BTC",
+  "description": "BTC Trading Terminal with Fibonacci 85-90% accuracy, SMC validation, and auto-notifications",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo-is888.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
